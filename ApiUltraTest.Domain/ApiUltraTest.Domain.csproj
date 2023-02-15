@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>ApiUltraTest.Domain</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+    <None Remove="Interfaces\Repository\" />
+    <None Remove="Enumerable\" />
+    <None Remove="Models\" />
+    <None Remove="Models\Location\" />
+    <None Remove="Models\RoomModel\" />
+    <None Remove="Models\BookingModel\" />
+    <None Remove="Models\GuestModel\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\Repository\" />
+    <Folder Include="Enumerable\" />
+    <Folder Include="Models\" />
+    <Folder Include="Models\Location\" />
+    <Folder Include="Models\RoomModel\" />
+    <Folder Include="Models\BookingModel\" />
+    <Folder Include="Models\GuestModel\" />
+  </ItemGroup>
+</Project>

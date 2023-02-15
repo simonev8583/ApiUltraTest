@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>ApiUltraTest.Application</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Interfaces\" />
+    <None Remove="Services\" />
+    <None Remove="Dtos\" />
+    <None Remove="Services\CommonServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Services\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Services\CommonServices\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiUltraTest.Domain\ApiUltraTest.Domain.csproj" />
+  </ItemGroup>
+</Project>

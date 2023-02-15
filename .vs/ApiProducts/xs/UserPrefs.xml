@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{0155980E-16C3-4DF9-90A7-B7C7FD527F90}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ApiUltraTest.Infrastructure.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiUltraTest.Infrastructure.Providers/MailService/MailKitService.cs">
+    <Files>
+      <File FileName="ApiUltraTest.Infrastructure.Providers/MailService/MailKitService.cs" Line="59" Column="1" />
+      <File FileName="ApiUltraTest.Infrastructure.API/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApiUltraTest" expanded="True">
+            <Node name="ApiUltraTest.Application" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="CommonServices" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="ApiUltraTest.Domain" expanded="True" />
+            <Node name="ApiUltraTest.Infrastructure.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="ApiUltraTest.Infrastructure.Data" expanded="True">
+              <Node name="Configs" expanded="True">
+                <Node name="Context" expanded="True">
+                  <Node name="Schemas" expanded="True">
+                    <Node name="SubSchemas" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="ApiUltraTest.Infrastructure.Providers" expanded="True">
+              <Node name="Configs" expanded="True" />
+              <Node name="MailService" expanded="True">
+                <Node name="MailKitService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ApiUltraTest.Infrastructure.API.props" />
+</Project>

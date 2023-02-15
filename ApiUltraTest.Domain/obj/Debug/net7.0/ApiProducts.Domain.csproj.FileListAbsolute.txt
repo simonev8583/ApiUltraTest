@@ -1,0 +1,12 @@
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/bin/Debug/net7.0/ApiUltraTest.Domain.deps.json
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/bin/Debug/net7.0/ApiUltraTest.Domain.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/bin/Debug/net7.0/ApiUltraTest.Domain.pdb
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.csproj.AssemblyReference.cache
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.AssemblyInfoInputs.cache
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.AssemblyInfo.cs
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.csproj.CoreCompileInputs.cache
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/refint/ApiUltraTest.Domain.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ApiUltraTest.Domain.pdb
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/Debug/net7.0/ref/ApiUltraTest.Domain.dll

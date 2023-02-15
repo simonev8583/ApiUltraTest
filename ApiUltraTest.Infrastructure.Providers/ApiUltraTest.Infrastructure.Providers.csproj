@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>ApiUltraTest.Infrastructure.Providers</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MailService\" />
+    <None Remove="NETCore.MailKit" />
+    <None Remove="Configs\" />
+    <None Remove="Microsoft.Extensions.Options" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MailService\" />
+    <Folder Include="Configs\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ApiUltraTest.Application\ApiUltraTest.Application.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="NETCore.MailKit" Version="2.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="7.0.1" />
+  </ItemGroup>
+</Project>

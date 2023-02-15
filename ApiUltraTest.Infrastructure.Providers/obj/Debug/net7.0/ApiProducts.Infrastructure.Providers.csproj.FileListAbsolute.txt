@@ -1,0 +1,17 @@
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.deps.json
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.pdb
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.csproj.AssemblyReference.cache
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.AssemblyInfoInputs.cache
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.AssemblyInfo.cs
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.csproj.CoreCompileInputs.cache
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/refint/ApiUltraTest.Infrastructure.Providers.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.pdb
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ref/ApiUltraTest.Infrastructure.Providers.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Application.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Domain.dll
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Application.pdb
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/bin/Debug/net7.0/ApiUltraTest.Domain.pdb
+/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/obj/Debug/net7.0/ApiUltraTest.Infrastructure.Providers.csproj.CopyComplete
