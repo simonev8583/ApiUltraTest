@@ -4403,11 +4403,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.API/ApiUltraTest.Infrastructure.API.csproj",
+      "projectUniqueName": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.API/ApiUltraTest.Infrastructure.API.csproj",
       "projectName": "ApiUltraTest.Infrastructure.API",
-      "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.API/ApiUltraTest.Infrastructure.API.csproj",
+      "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.API/ApiUltraTest.Infrastructure.API.csproj",
       "packagesPath": "/Users/simone/.nuget/packages/",
-      "outputPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.API/obj/",
+      "outputPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/simone/.nuget/NuGet/NuGet.Config"
@@ -4422,14 +4422,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj": {
-              "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj"
+            "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj": {
+              "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj"
             },
-            "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Data/ApiUltraTest.Infrastructure.Data.csproj": {
-              "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Data/ApiUltraTest.Infrastructure.Data.csproj"
+            "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.Data/ApiUltraTest.Infrastructure.Data.csproj": {
+              "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.Data/ApiUltraTest.Infrastructure.Data.csproj"
             },
-            "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/ApiUltraTest.Infrastructure.Providers.csproj": {
-              "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/ApiUltraTest.Infrastructure.Providers.csproj"
+            "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/ApiUltraTest.Infrastructure.Providers.csproj": {
+              "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/ApiUltraTest.Infrastructure.Providers.csproj"
             }
           }
         }

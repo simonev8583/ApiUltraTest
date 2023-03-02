@@ -13,14 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
+      "projectUniqueName": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
       "projectName": "ApiUltraTest.Domain",
-      "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
+      "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
       "packagesPath": "/Users/simone/.nuget/packages/",
-      "outputPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/",
+      "outputPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/obj/",
       "projectStyle": "PackageReference",
-      "configFilePaths": ["/Users/simone/.nuget/NuGet/NuGet.Config"],
-      "originalTargetFrameworks": ["net7.0"],
+      "configFilePaths": [
+        "/Users/simone/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -31,7 +35,9 @@
         }
       },
       "warningProperties": {
-        "warnAsError": ["NU1605"]
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {

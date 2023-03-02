@@ -1,18 +1,41 @@
 ﻿<Properties StartupConfiguration="{0155980E-16C3-4DF9-90A7-B7C7FD527F90}|https">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ApiUltraTest.Infrastructure.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ApiUltraTest.Application/Services/BookingService.cs">
+    <Files>
+      <File FileName="ApiUltraTest.Domain/Models/BookingModel/Booking.cs" Line="22" Column="31" />
+      <File FileName="ApiUltraTest.Infrastructure.Data/Configs/Context/Schemas/BookingSchema.cs" Line="1" Column="1" />
+      <File FileName="ApiUltraTest.Application/Interfaces/IBookingService.cs" Line="6" Column="9" />
+      <File FileName="ApiUltraTest.Application/Services/BookingService.cs" Line="37" Column="55" />
+      <File FileName="ApiUltraTest.Infrastructure.API/Startup.cs" Line="72" Column="56" />
+      <File FileName="ApiUltraTest.Application/Services/HotelService.cs" Line="33" Column="1" />
+      <File FileName="ApiUltraTest.Infrastructure.Data/Repositories/BookingRepository.cs" Line="36" Column="88" />
+      <File FileName="ApiUltraTest.Infrastructure.Providers/MailService/MailKitService.cs" Line="43" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ApiUltraTest" expanded="True" selected="True" />
+          <Node name="ApiUltraTest" expanded="True">
+            <Node name="ApiUltraTest.Application" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="BookingService.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ApiUltraTest.Infrastructure.API" expanded="True" />
+            <Node name="ApiUltraTest.Infrastructure.Data" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="ApiUltraTest.Infrastructure.Providers" expanded="True">
+              <Node name="MailService" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ApiUltraTest.Infrastructure.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>

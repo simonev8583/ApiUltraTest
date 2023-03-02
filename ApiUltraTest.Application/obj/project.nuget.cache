@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KMxPHF9GTzmu9IFWnBwbGo8913QtvjGRdU5wkuzJQEMK7/H1G/WF0OU4T/Pf3xDvjbkL4lIpwlYJOJCzbApmzg==",
+  "dgSpecHash": "2Q3dPnjqpfIg6sZMWs6SWrZ2OkKfuLaaF362hNkvNE/0tl5LEch8IDvDHRHZ0S+/ZDUANb0Bb1Ypw4owUcn52g==",
   "success": true,
-  "projectFilePath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj",
+  "projectFilePath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

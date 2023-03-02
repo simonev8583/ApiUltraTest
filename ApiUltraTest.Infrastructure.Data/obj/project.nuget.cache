@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WNEBIKc2XqF/OHA6hIOxgsF6uk1WE7ITQiQZiyzVEWtbVvsImqN63roqnzRAYyWAl73uN4Dpdm9pSKYWDD80Cw==",
+  "dgSpecHash": "xwPdk2Ci5sGJ1rBzuS5UYMRO2mlqlvPc7x9YXoPbnYIG6sIVip4Zzu0bTQhp8Oap5nFMTCOLO82HX+qGqFWbZQ==",
   "success": true,
-  "projectFilePath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Data/ApiUltraTest.Infrastructure.Data.csproj",
+  "projectFilePath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.Data/ApiUltraTest.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "/Users/simone/.nuget/packages/awssdk.core/3.7.100.14/awssdk.core.3.7.100.14.nupkg.sha512",
     "/Users/simone/.nuget/packages/awssdk.securitytoken/3.7.100.14/awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj": {}
+    "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj": {}
   },
   "projects": {
-    "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj": {
+    "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj",
+        "projectUniqueName": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj",
         "projectName": "ApiUltraTest.Application",
-        "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj",
+        "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/ApiUltraTest.Application.csproj",
         "packagesPath": "/Users/simone/.nuget/packages/",
-        "outputPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Application/obj/",
+        "outputPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/simone/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj": {
-                "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj"
+              "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj": {
+                "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj": {
+    "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
+        "projectUniqueName": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
         "projectName": "ApiUltraTest.Domain",
-        "projectPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
+        "projectPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/ApiUltraTest.Domain.csproj",
         "packagesPath": "/Users/simone/.nuget/packages/",
-        "outputPath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Domain/obj/",
+        "outputPath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/simone/.nuget/NuGet/NuGet.Config"

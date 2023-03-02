@@ -68,6 +68,8 @@ namespace ApiUltraTest.Infrastructure.API
 
         protected void ConfigureDbContext(IServiceCollection services)
         {
+
+            //Scope in repo || singleton in the context
             services.AddTransient<Context>();
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+/sXC/xzJ3uQqer/WvtbGQT9t8I0IJe5QL2j/J1jyh6jxHX1E2+5DQ62wQ0qXh3QsbrjKsWgM/N2fGIrlqvKg==",
+  "dgSpecHash": "ba0WIQFKBwzL49GXYMY+u7uYYlehRaEDvdidUQL9reuNoF6EfEhfe9wNxrVlxzNW29UZWFHrBaPJTW7S0VANSg==",
   "success": true,
-  "projectFilePath": "/Users/simone/Desktop/CotiOnline/Source/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/ApiUltraTest.Infrastructure.Providers.csproj",
+  "projectFilePath": "/Users/simone/Desktop/ApiUltraTest/ApiUltraTest.Infrastructure.Providers/ApiUltraTest.Infrastructure.Providers.csproj",
   "expectedPackageFiles": [
     "/Users/simone/.nuget/packages/mailkit/3.2.0/mailkit.3.2.0.nupkg.sha512",
     "/Users/simone/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
